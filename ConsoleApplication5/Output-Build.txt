@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: ConsoleApplication5, Configuration: Debug Win32 ------
+1>  Main.cpp
+1>  ConsoleApplication5.vcxproj -> C:\Users\Bobak\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Debug\ConsoleApplication5.exe
+1>  ConsoleApplication5.vcxproj -> C:\Users\Bobak\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Debug\ConsoleApplication5.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
